@@ -1,0 +1,19 @@
+{
+  "name": "ollie_gulp",
+  "version": "0.0.1",
+  "description": "ollie_gulp",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.3.13",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-babel": "^6.1.1",
+    "gulp-font-spider": "^0.2.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-sass": "^2.1.1",
+    "gulp-watch": "^4.3.5"
+  },
+  "author": {
+    "name": "ollie",
+    "email": ""
+  }
+}
